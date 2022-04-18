@@ -1,2 +1,3 @@
 # Artificial-Intelligence
-CMSI 3300
+
+Projects and works from Artifical Intelligence (Python)
